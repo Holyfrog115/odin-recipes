@@ -33,6 +33,8 @@ div h1 {
 
 img {
     border: 3px black double;
+    width: 500px;
+    height: auto;
 }
 
 #first {
